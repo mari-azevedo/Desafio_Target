@@ -1,0 +1,14 @@
+C:\Users\duda2\source\repos\FIB\FIB\bin\Debug\net8.0\FIB.exe
+C:\Users\duda2\source\repos\FIB\FIB\bin\Debug\net8.0\FIB.deps.json
+C:\Users\duda2\source\repos\FIB\FIB\bin\Debug\net8.0\FIB.runtimeconfig.json
+C:\Users\duda2\source\repos\FIB\FIB\bin\Debug\net8.0\FIB.dll
+C:\Users\duda2\source\repos\FIB\FIB\bin\Debug\net8.0\FIB.pdb
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.AssemblyInfoInputs.cache
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.AssemblyInfo.cs
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.csproj.CoreCompileInputs.cache
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.dll
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\refint\FIB.dll
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.pdb
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\FIB.genruntimeconfig.cache
+C:\Users\duda2\source\repos\FIB\FIB\obj\Debug\net8.0\ref\FIB.dll
